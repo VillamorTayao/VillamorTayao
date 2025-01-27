@@ -1,5 +1,5 @@
 # Hi, I’m Villamor Tayao
-Aspiring to be a Software Developer
+Aspiring to be a Software Developer and a recent graduate in Computer Engineering!
 
 🌱 I’m currently learning Web Developement using:
 - HTML
