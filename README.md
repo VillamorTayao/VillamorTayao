@@ -8,7 +8,8 @@ Aspiring to be a Software Developer and a recent graduate in Computer Engineerin
 - React
 - PHP
 
-.... and maybe Java or C++ for "fun" lol 😂
+.... and maybe Java or C++ for "fun" lol
+so uhh Please Hire me 😂
 
 
 <!---
